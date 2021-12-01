@@ -1,0 +1,6 @@
+Indicadores:
+1_Rentabilidad por servicio
+2_Rentabilidad por cliente
+
+Url Documentación Sprint SharePoint:
+https://digitallearning.sharepoint.com/sites/DL-Tecnologia/Documentos%20compartidos/Forms/AllItems.aspx?newTargetListUrl=%2Fsites%2FDL%2DTecnologia%2FDocumentos%20compartidos&viewpath=%2Fsites%2FDL%2DTecnologia%2FDocumentos%20compartidos%2FForms%2FAllItems%2Easpx&id=%2Fsites%2FDL%2DTecnologia%2FDocumentos%20compartidos%2FProyectos%2FEficiencia%20Operacional%2FModelo%20de%20Control%20de%20Gesti%C3%B3n%2F03%20Desarrollo%2FSprint%201&viewid=9c2f6f16%2D7cde%2D45a4%2D8ad2%2D950e79a87957
