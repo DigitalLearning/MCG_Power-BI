@@ -25,4 +25,6 @@ Manual técnico del Sprint 6:
 
 URL Repo ETL de clientes:
 
+https://github.com/DigitalLearning/ETL_Totara_Encuestas_MCG
+
 
