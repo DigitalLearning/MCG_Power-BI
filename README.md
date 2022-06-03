@@ -1,6 +1,7 @@
 ﻿﻿# MCG_Power-BI
 
 Guía de usuario pare el uso de Power BI en DL:
+https://github.com/DigitalLearning/MCG_Power-BI/blob/main/Manual%20para%20la%20creaci%C3%B3n%20de%20roles%20en%20Power%20BI.docx
 
 https://github.com/DigitalLearning/MCG_Power-BI/blob/main/Power-BI%20en%20DL.pptx
 
