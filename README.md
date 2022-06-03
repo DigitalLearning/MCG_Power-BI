@@ -1,4 +1,6 @@
 ﻿﻿# MCG_Power-BI
+  
+  Versión Power BI Desktop: Abril 2022
 
 Guía de usuario pare el uso de Power BI en DL:
 
